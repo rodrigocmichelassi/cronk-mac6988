@@ -1,3 +1,5 @@
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/rodrigocmichelassi/cronk-mac6988/badge)](https://scorecard.dev/viewer/?uri=github.com/rodrigocmichelassi/cronk-mac6988)
+
 # Cronk: a cron-json translator
 
 ---
